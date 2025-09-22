@@ -34,9 +34,9 @@ const ContactPage = () => {
 									src="https://docs.google.com/forms/d/e/1FAIpQLSclp9pNSBL8Xe01AMLBethGBGZ4hf-j7peQyumWOfXWGPkLRA/viewform?embedded=true" 
 									width="100%" 
 									height="1221" 
-									frameBorder="0" 
-									marginHeight="0" 
-									marginWidth="0"
+									// frameBorder="0" 
+									// marginHeight="0" 
+									// marginWidth="0"
 									className="rounded-2xl"
 									style={{ maxWidth: '640px' }}
 								>

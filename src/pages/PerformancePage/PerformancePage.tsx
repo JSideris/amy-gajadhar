@@ -1,4 +1,4 @@
-import { Download, Play, MapPin } from "lucide-react";
+import { Download, Play } from "lucide-react";
 
 const PerformancePage = ({ setCurrentPage }: { setCurrentPage: (page: string) => void }) => (
 	<div className="bg-white">

@@ -1,5 +1,3 @@
-import { Piano, BookOpen, Clock } from "lucide-react";
-
 const StudioPage = ({ setCurrentPage }: { setCurrentPage: (page: string) => void }) => (
 	<div className="bg-white min-h-screen">
 		{/* Hero Section */}
